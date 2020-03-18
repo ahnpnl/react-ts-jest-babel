@@ -86,7 +86,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.6.0",
     "@types/enzyme": "^3.10.3",
-    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "ts-jest": "^25.1.0"
