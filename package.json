@@ -35,7 +35,7 @@
     "html-webpack-plugin": "4.0.0-beta.14",
     "identity-obj-proxy": "3.0.0",
     "is-wsl": "^2.1.1",
-    "jest": "^25.1.0",
+    "jest": "^25.2.1",
     "jest-resolve": "^25.1.0",
     "jest-watch-typeahead": "^0.4.2",
     "mini-css-extract-plugin": "0.9.0",
