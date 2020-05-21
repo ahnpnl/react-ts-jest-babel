@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Title component 1`] = `
+Array [
+  <h1
+    className="mainTitle"
+  >
+    <strong>
+      Jest Example
+    </strong>
+  </h1>,
+  <h3
+    className="subTitle"
+  >
+    React with CSS Modules automated tests
+  </h3>,
+]
+`;
